@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hi there, I'm Krushna Renge! 👋</h1>
+<h1 align="center">Hi there, I'm Krushna Renge </h1>
 
 <h3 align="center">Robotics & Embedded Systems Engineer | Autonomous Robotics | Computer Vision</h3>
 
