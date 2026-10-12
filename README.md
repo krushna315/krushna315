@@ -1,15 +1,21 @@
-# Hi there, I'm Krushna Renge! 👋
-
 <div align="center">
 
-### Robotics & Embedded Systems Engineer | Autonomous Robotics | Computer Vision
+<h1 align="center">Hi there, I'm Krushna Renge! 👋</h1>
 
+<h3 align="center">Robotics & Embedded Systems Engineer | Autonomous Robotics | Computer Vision</h3>
+
+<p align="center">
 Developing intelligent robotic systems through embedded electronics, computer vision, control systems, and simulation.
+</p>
 
-**Robocon 2026 Simulation — Completed** · **Final-Year Project — Completed**
+<p align="center">
+<strong>Robocon 2026 Simulation — Completed</strong> · <strong>Final-Year Project — Completed</strong>
+</p>
 
+<p align="center">
 <a href="https://github.com/krushna315"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/krushna-renge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 </div>
 
@@ -82,6 +88,6 @@ Completed my final-year engineering project, applying practical engineering and 
 
 <br/><br/>
 
-**Building intelligent machines through robotics, embedded systems, and software engineering.** 🤖
+<strong>Building intelligent machines through robotics, embedded systems, and software engineering. 🤖</strong>
 
 </div>
